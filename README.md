@@ -2,6 +2,10 @@
 
 Eject all mounted Mac OS X disk images at once.
 
+![Full-width icon](icon/EjectAll2%20-%20512.png)
+![Finder action bar icon](icon/EjectAll2%20-%2032%20%28Leo%29.png)
+![Small icon](icon/EjectAll2%20-%2016.png)
+
 ## Usage
 
 The main use case is to clean up mounted disk images after a session of installing software on Mac OS X.
