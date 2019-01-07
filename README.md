@@ -16,6 +16,8 @@ The main use case is to clean up mounted disk images after a session of installi
 
 The recommended setup is to add this app in the Finder windows toolbar, to replace the native “eject” button. The icon is made to fit properly in there.
 
+![Icon in the action bar](Manuel.rtfd/EjectAll%20in%20toolbar.jpg)
+
 ## Manual (in French)
 
 EjectAll est un utilitaire permettant d'éjecter toutes les images disques montées sur un système, voire tous les médias éjectables.
